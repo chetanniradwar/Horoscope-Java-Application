@@ -5,4 +5,6 @@
 * Package used - Java Swing
 ## Output 
 <img src="astrologyjava/imageicon/Horoscope_output_image.png"></img>
-## .Jar file link
+## Executable .jar file
+* To run this application download jar file [here](https://drive.google.com/file/d/1mLTxGvXnjUqCTnY1kOhr0bBu97p_tRz2/view?usp=sharing)
+* Note - Java must be installed in your PC
